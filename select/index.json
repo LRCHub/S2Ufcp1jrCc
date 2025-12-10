@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "I know you loved me",
+  "base_artist": "z²",
+  "createdAt": "2025-12-10T06:17:46.909681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "And I Know You Loved Me",
+      "artist": "Amy Clay",
+      "has_synced": false,
+      "path": "select/01_And_I_Know_You_Loved_Me_Amy_Clay.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I know you loved me",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_I_know_you_loved_me_z2.txt"
+    }
+  ]
+}
